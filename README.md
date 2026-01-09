@@ -1,7 +1,9 @@
 RetailPulseDB
 
 RetailPulseDB is a custom-designed SQL practice database that simulates real-world retail business operations.
+
 It is built to practice intermediate to advanced SQL queries commonly asked in data analyst and SQL developer interviews.
+
 This project focuses on business-driven analytics, not toy examples.
 
 🎯 Project Objective
