@@ -8,24 +8,37 @@ This project focuses on business-driven analytics, not toy examples.
 
 🎯 Project Objective
 Most SQL portfolios fail because they:
+
 Use recycled sample databases
+
 Avoid real analytics logic
+
 Don’t demonstrate business thinking
+
 RetailPulseDB is built to:
+
 Practice interview-level SQL
+
 Demonstrate analytical problem-solving
+
 Showcase clean schema design
+
 Support LinkedIn & GitHub portfolio use
 
 Database Overview
+
 Database Name: RetailPulseDB
+
 Database Type: Relational (Normalized)
+
 Tables
-Table	Description
-Customers	Customer details and signup date
-Products	Product catalog with category and pricing
-Orders	Customer order transactions
-OrderDetails	Line-level product quantities per order
+
+Table          	Description
+Customers    	  Customer details and signup date
+Products   	    Product catalog with category and pricing
+Orders	        Customer order transactions
+OrderDetails	  Line-level product quantities per order
+
 Design Principles
 Fully normalized schema
 No stored revenue or totals
