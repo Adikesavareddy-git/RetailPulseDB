@@ -76,13 +76,3 @@ SQL interview preparation
 Portfolio & LinkedIn showcasing
 Anyone serious about learning real SQL, not textbook syntax
 
-🧠 What Makes This Project Strong
-Custom schema (not copied)
-
-Business-relevant questions
-
-Uses realistic data patterns
-
-Demonstrates analytical depth
-
-Easy to explain in interviews
